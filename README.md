@@ -12,7 +12,7 @@ My passion for Machine Learning is not just a professional interest, but a perso
 
 I'm looking for research & industry opportunities in LLM serving, Efficient CV, and edge computing.
 
-## Hi lighted Events:
+## Recent Events:
 
 I've submitted two papers to NIPS 2024. I hope the best of luck 🙏.
 
