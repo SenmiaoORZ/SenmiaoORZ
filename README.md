@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 Hyman Here 😊
 
-<!--
-**SenmiaoORZ/SenmiaoORZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an ML Researcher focusing on Efficient Representation Learning and Efficient LLM Serving.
 
-Here are some ideas to get you started:
+My passion for Machine Learning is not just a professional interest, but a personal one too. I love Cars (I drive a Manual Integra), Hantusu Miku, and the endless possibilities of Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I'm a master's student at U of M in the EECS department.
+
+🌱 I'm currently learning linear algebra, and I believe this will deepen my understanding of many ML theories.
+
+📫 How to reach me:  📮 : hymanzzs@umich.edu, 📱: 8149968190
+
+I'm looking for research & industry opportunities in LLM serving, Efficient CV, and edge computing.
+
+## Hi lighted Events:
+
+I've submitted two papers to NIPS 2024. I hope the best of luck 🙏.
+
+I recently accepted an internship as an ML Research Scientist at Ann Arbor. However, I can't disclose my company name right now.
+
+
