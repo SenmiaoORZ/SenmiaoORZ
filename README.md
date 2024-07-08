@@ -16,6 +16,6 @@ I'm looking for research & industry opportunities in LLM serving, Efficient CV, 
 
 I've submitted two papers to NIPS 2024. I hope the best of luck 🙏.
 
-I recently accepted an internship as an ML Research Scientist at Ann Arbor. However, I can't disclose my company name right now.
+I recently accepted an internship as an MLE at Maize-Lab Ann Arbor.
 
 
