@@ -14,7 +14,7 @@ I'm looking for research & industry opportunities in LLM serving, Efficient CV, 
 
 ## Recent Events:
 
-I've submitted two papers to NIPS 2024. I hope the best of luck 🙏.
+I will join BMW group at Ohio as Fall Intern. See you at Ohio!
 
 I recently accepted an internship as an MLE at Maize-Lab Ann Arbor.
 
