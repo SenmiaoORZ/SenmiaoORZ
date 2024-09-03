@@ -20,6 +20,6 @@ I will continue working as an AI research Fellow at CAI, using LLM and RAG to im
 
 I will join the BMW group in Ohio as a Data Science Fall Intern. See you in Ohio!
 
-I recently accepted an internship as an MLE at Maize-Lab Ann Arbor.
+I recently completed an internship as an MLE at Maize-Lab Ann Arbor.
 
 
