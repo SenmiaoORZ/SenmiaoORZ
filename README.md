@@ -14,7 +14,11 @@ I'm looking for research & industry opportunities in LLM serving, Efficient CV, 
 
 ## Recent Events:
 
-I will join BMW group at Ohio as Fall Intern. See you at Ohio!
+I'm writing my first author paper for the NIPS 2024 workshop, wish me all the best. 🙏
+
+I will continue working as an AI research Fellow at CAI, using LLM and RAG to improve education content recommendations.
+
+I will join the BMW group in Ohio as a Data Science Fall Intern. See you in Ohio!
 
 I recently accepted an internship as an MLE at Maize-Lab Ann Arbor.
 
