@@ -12,6 +12,8 @@ My passion for Machine Learning is not just a professional interest, but a perso
 
 I'm looking for research & industry opportunities in LLM serving, Efficient CV, and edge computing.
 
+Google Scholar: https://scholar.google.com/citations?user=eDKnsl8AAAAJ&hl=zh-CN
+
 ## Recent Events:
 
 I'm writing my first author paper for the NIPS 2024 workshop, wish me all the best. 🙏
