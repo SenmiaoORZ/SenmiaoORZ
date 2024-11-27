@@ -1,5 +1,7 @@
 ### Hi there 👋 Hyman Here 😊
 
+### I'm looking for PhD position for FA 25 and Internship for 2025
+
 I'm an ML Researcher focusing on Efficient Representation Learning and Efficient LLM Serving.
 
 My passion for Machine Learning is not just a professional interest, but a personal one too. I love Cars (I drive a Manual Integra), Hantusu Miku, and the endless possibilities of Machine Learning.
@@ -16,12 +18,12 @@ Google Scholar: https://scholar.google.com/citations?user=eDKnsl8AAAAJ&hl=zh-CN
 
 ## Recent Events:
 
-I'm writing my first author paper for the NIPS 2024 workshop, wish me all the best. 🙏
+12/4 I will conclude my Internship at BMW, thanks for all support!
 
-I will continue working as an AI research Fellow at CAI, using LLM and RAG to improve education content recommendations.
+11/27 Two of my workshop paper was accepted by NIPS 2024, see you in Vancouver!
 
-I will join the BMW group in Ohio as a Data Science Fall Intern. See you in Ohio!
 
-I recently completed an internship as an MLE at Maize-Lab Ann Arbor.
+## [Google Scholar]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=eDKnsl8AAAAJ))
+
 
 
