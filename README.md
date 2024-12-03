@@ -8,8 +8,6 @@ My passion for Machine Learning is not just a professional interest, but a perso
 
 🔭 I'm a master's student at U of M in the EECS department.
 
-🌱 I'm currently learning linear algebra, and I believe this will deepen my understanding of many ML theories.
-
 📫 How to reach me:  📮 : hymanzzs@umich.edu, 📱: 8149968190
 
 I'm looking for research & industry opportunities in LLM serving, Efficient CV, and edge computing.
