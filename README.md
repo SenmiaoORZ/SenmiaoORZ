@@ -20,7 +20,7 @@ Google Scholar: https://scholar.google.com/citations?user=eDKnsl8AAAAJ&hl=zh-CN
 
 11/27 Two of my workshop paper was accepted by NIPS 2024, see you in Vancouver!
 
-## Service
+## Service:
 
 ICLR 2025 DeLTa Workshop Reviewer
 
