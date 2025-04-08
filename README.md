@@ -1,12 +1,6 @@
 ### Hi there 👋 Hyman Here 😊
 
-### I'm looking for PhD position for FA 25 and Internship for 2025
-
-I'm an ML Researcher focusing on Efficient Representation Learning and Efficient LLM Serving.
-
-My passion for Machine Learning is not just a professional interest, but a personal one too. I love Cars (I drive a Manual Integra), Hantusu Miku, and the endless possibilities of Machine Learning.
-
-🔭 I'm a master's student at U of M in the EECS department.
+Hi there, I am a first year PhD Student in the Computer Science and Engineering Department at the University of Michigan under the supervision of Prof. Z. Morley Mao. My research interest focus on efficient machine learning.
 
 📫 How to reach me:  📮 : hymanzzs@umich.edu, 📱: 8149968190
 
@@ -15,6 +9,8 @@ I'm looking for research & industry opportunities in LLM serving, Efficient CV, 
 Google Scholar: https://scholar.google.com/citations?user=eDKnsl8AAAAJ&hl=zh-CN
 
 ## Recent Events:
+
+25/4/5 I accepted PhD offer from University of Michigan.
 
 12/4 I will conclude my Internship at BMW, thanks for all support!
 
