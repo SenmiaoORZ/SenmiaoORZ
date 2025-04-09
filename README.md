@@ -12,9 +12,9 @@ I'm looking for research & industry opportunities in LLM serving, Efficient CV, 
 
 25/4/5 I accepted PhD offer from University of Michigan.
 
-12/4 I will conclude my Internship at BMW, thanks for all support!
+24/12/4 I will conclude my Internship at BMW, thanks for all support!
 
-11/27 Two of my workshop paper was accepted by NIPS 2024, see you in Vancouver!
+24/11/27 Two of my workshop paper was accepted by NIPS 2024, see you in Vancouver!
 
 ## Service:
 
