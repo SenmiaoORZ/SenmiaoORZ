@@ -1,12 +1,10 @@
 ### Hi there 👋 Hyman Here 😊
 
-Hi there, I am a first year PhD Student in the Computer Science and Engineering Department at the University of Michigan under the supervision of Prof. Z. Morley Mao. My research interest focus on efficient machine learning.
+Hi there, I am a first year PhD Student in the Computer Science and Engineering Department at the University of Michigan under the supervision of [Prof. Z. Morley Mao](https://web.eecs.umich.edu/~zmao/). My research interest focus on efficient machine learning.
 
 📫 How to reach me:  📮 : hymanzzs@umich.edu, 📱: 8149968190
 
 I'm looking for research & industry opportunities in LLM serving, Efficient CV, and edge computing.
-
-Google Scholar: https://scholar.google.com/citations?user=eDKnsl8AAAAJ&hl=zh-CN
 
 ## Recent Events:
 
