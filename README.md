@@ -16,7 +16,4 @@ Hi there, I am a first year PhD Student in the Computer Science and Engineering 
 
 ## Service:
 
-ICLR 2025 DeLTa Workshop Reviewer
-
-
-
+ICLR 2025 DeLTa Workshop Reviewer, ICML 2025 Muslims in ML Workshop Reviewer
