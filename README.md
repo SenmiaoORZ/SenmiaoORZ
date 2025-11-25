@@ -6,9 +6,7 @@ My research interests focus on efficient machine learning, VLA, and embodied AI.
 
 [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=eDKnsl8AAAAJ), [LinkedIn](https://www.linkedin.com/in/zesen-zhao-b1b859244/)
 
-📫 How to reach me:  
-📮 hymanzzs@umich.edu  
-📱 814-996-8190
+📮 hymanzzs@umich.edu , 📱 814-996-8190
 
 ## Recent Events:
 
