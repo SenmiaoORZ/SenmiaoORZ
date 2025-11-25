@@ -4,7 +4,7 @@ Hi there, I am a first-year PhD student in the Computer Science and Engineering 
 
 My research interests focus on efficient machine learning, VLA, and embodied AI. I love the combination of these fields. To make AI truly impactful and beneficial, we must push it into the physical world. Also, we need to achieve the democracy of AI applications to prevent future suppression.
 
-🎓[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=eDKnsl8AAAAJ), 🤵[LinkedIn](https://www.linkedin.com/in/zesen-zhao-b1b859244/) 📮 hymanzzs@umich.edu , 📱 814-996-8190
+🎓[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=eDKnsl8AAAAJ), 🤵[LinkedIn](https://www.linkedin.com/in/zesen-zhao-b1b859244/) 📮 hymanzzs@umich.edu
 
 ## Recent Events:
 
