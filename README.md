@@ -13,12 +13,12 @@ My research interests focus on efficient machine learning, VLA, and embodied AI.
 - 24/12/4 I concluded my internship at BMW — thanks for all the support!
 - 24/11/27 Two of my workshop papers were accepted by NeurIPS 2024 — see you in Vancouver!
 
+## Selected Publications:
+
+- [Eagle: Efficient Training-Free Router for Multi-LLM Inference](https://arxiv.org/pdf/2409.15518?)
+
 ## Service:
 
 ARR July 2025 Reviewer
 ICLR 2025 DeLTa Workshop Reviewer  
 ICML 2025 Muslims in ML Workshop Reviewer  
-
-## Selected Publications:
-
-- [Eagle: Efficient Training-Free Router for Multi-LLM Inference](https://arxiv.org/pdf/2409.15518?)
