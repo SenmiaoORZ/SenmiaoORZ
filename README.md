@@ -19,6 +19,6 @@ My research interests focus on efficient machine learning, VLA, and embodied AI.
 
 ## Service:
 
-ARR July 2025 Reviewer
-ICLR 2025 DeLTa Workshop Reviewer  
-ICML 2025 Muslims in ML Workshop Reviewer  
+- ARR July 2025 Reviewer
+- ICLR 2025 DeLTa Workshop Reviewer  
+- ICML 2025 Muslims in ML Workshop Reviewer  
