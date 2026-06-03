@@ -6,6 +6,8 @@ My research interests focus on efficient machine learning, VLA, and embodied AI.
 🎓[Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=eDKnsl8AAAAJ), 🤵[LinkedIn](https://www.linkedin.com/in/zesen-zhao-b1b859244/) 📮 [hymanzzs@umich.edu](mailto:hymanzzs@umich.edu)
 
 ## Recent Events:
+- 26/6/3 I will attend CVPR 2026 - see you in Denvor!
+- 26/5/18 I've start my VLM Research Internship at Cruise!
 - 25/12/3 I will attend NeurIPS 2025 - see you in San Diego!
 - 25/4/5 I accepted the PhD offer from the University of Michigan.
 - 24/12/4 I concluded my internship at BMW — thanks for all the support!
